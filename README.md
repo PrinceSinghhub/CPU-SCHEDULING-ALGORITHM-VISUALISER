@@ -42,6 +42,9 @@ The CPU Scheduling Algorithm Visualizer is a web-based tool that allows users to
 ## Video 🎥 <br>
 
 
+https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER/assets/71000042/c80a0df0-f08f-4984-b329-484cc33bacc6
+
+
 ## Implementation 👇
 
 
