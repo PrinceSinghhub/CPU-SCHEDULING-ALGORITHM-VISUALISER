@@ -31,6 +31,14 @@ The CPU Scheduling Algorithm Visualizer is a web-based tool that allows users to
 
 <br>
 
+### Live: https://cpu-scheduling-algorithm-visualiser.netlify.app/ 
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- BootStrap
+
 ## Video 🎥 <br>
 
 
