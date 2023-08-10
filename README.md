@@ -1,6 +1,42 @@
 
 # CPU SCHEDULING ALGORITHM VISUALISER
 
+## Introduction <br>
+
+The CPU Scheduling Algorithm Visualizer is a web-based tool that allows users to interactively visualize various CPU scheduling algorithms. This project aims to provide an educational resource for understanding how different scheduling algorithms work internally and their effects on the execution of processes in a CPU. <br>
+
+## Features <br>
+- Interactive visualization of CPU scheduling algorithms
+- Support for the following algorithms 👇
+- First Come First Serve (FCFS)
+- Shortest Job First (SJF)
+- Round Robin Scheduling (RRS)
+- Longest Job First (LJF)
+- Priority CPU Scheduling
+- Longest Remaining Time First (LRTF)
+- Shortest Remaining Time First (SRTF)
+- Real-time updates to process queues, timelines, and statistics
+- User-friendly interface for adjusting algorithm parameters
+- Clear visualization of process execution, arrival times, waiting times, and more
+<br>
+
+## Algorithms Implemented
+- First Come First Serve (FCFS)
+- Shortest Job First (SJF)
+- Round Robin Scheduling (RRS)
+- Longest Job First (LJF)
+- Priority CPU Scheduling
+- Longest Remaining Time First (LRTF)
+- Shortest Remaining Time First (SRTF)
+
+<br>
+
+## Video 🎥 <br>
+
+
+## Implementation 👇
+
+
 ### FCFS (First Come First Serve):  <br>
 FCFS Algorithm. is a non-preemptive algorithm and it execute processes according to its arrival time(process that comes first in the ready queue). FCFS also suffers from starvation which arise if the first process has larger burst time. <br>
 
@@ -44,3 +80,21 @@ SRTF is a pre-emptive algorithm. At the arrival of every process, the short term
 
 ![srtf](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER/assets/71000042/c0506b2d-c5e6-4506-826b-1210d567d7ea)
 
+## Prerequisites
+
+    Web browser with JavaScript enabled
+    Internet connection (for libraries and stylesheets)
+
+## Installation
+
+    Clone the repository: git clone https://github.com/your-username/cpu-scheduling-visualizer.git
+    Navigate to the project directory: cd cpu-scheduling-visualizer
+    Open index.html in your preferred web browser.
+
+## Usage
+
+    Open the visualizer in your web browser.
+    Select an algorithm from the dropdown menu.
+    Configure algorithm-specific parameters (if applicable).
+    Add processes with their arrival times, burst times, and priorities.
+    Click "Run" to visualize the algorithm's execution.
